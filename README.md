@@ -1,1 +1,1 @@
-# Social-Galary
+# Social-Galery
